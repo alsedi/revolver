@@ -1,7 +1,7 @@
 @file:Suppress("UnstableApiUsage")
 
 plugins {
-    kotlin("multiplatform") version "2.0.20"
+    kotlin("multiplatform") version "2.3.10"
     id("com.android.library")
     id("maven-publish")
 }
